@@ -4,7 +4,7 @@
 
 🧬 **Licenciado en Bioquímica y Licenciado en Biología.**  
 💻 Apasionado por la bioinformática, docking y dinámica molecular.  
-🧪 Explorando nuevas tecnologías y desarrollando proyectos interesantes.  
+⚗️ Explorando nuevas tecnologías y desarrollando proyectos interesantes.  
 
 📩 **Contacto:**  
 [![Email](https://img.shields.io/badge/Email-Enviar_correo-blue?style=flat&logo=gmail)](mailto:nonina2021@outlook.es)
