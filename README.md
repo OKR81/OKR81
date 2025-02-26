@@ -3,7 +3,7 @@
 ## ¡Hola, soy Óscar Núñez López! <img src="https://raw.githubusercontent.com/OKR81/OKR81/main/.github/assets/manosaluda.gif" width="30px">
 
 📌 **Licenciado en Bioquímica y Licenciado en Biología.**  
-🔬 Apasionado por la bioinformática, docking y dinámica moleculer.  
+🔬 Apasionado por la bioinformática, docking y dinámica molecular.  
 💡 Explorando nuevas tecnologías y desarrollando proyectos interesantes.  
 
 📩 **Contacto:**  
